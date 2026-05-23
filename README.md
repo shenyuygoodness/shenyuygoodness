@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭I’m currently working on Cybersecurity (Cloud security on CISCO)<br>🌱 I’m currently learning frontend development with React.<br>👯 I'm looking forward to collaborating on as many projects as possible.<br>⚡ Fun fact: I watch movies in my spare time.<br>📫 How to reach me: shenyuygoodness@gmail.com.<br>😄 Pronouns: her/she
+🔭I’m currently working on growing my cybersecurity technical skills <br>🌱  I'm looking forward to collaborating on as many projects as possible.<br>⚡ Fun fact: I watch movies in my spare time.<br>📫 How to reach me: shenyuygoodness@gmail.com.<br>😄 Pronouns: her/she
 
 
 ## 🌐 Socials:
